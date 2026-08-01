@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ملاحظاتي</string>
+
+    <string name="hint_search">بحث في الملاحظات</string>
+    <string name="hint_title">العنوان</string>
+    <string name="hint_content">اكتب ملاحظتك… استخدم #وسم لربط الملاحظات ببعضها</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_save">حفظ</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_graph">شبكة العلاقات</string>
+    <string name="settings_graph_desc">عرض الملاحظات المترابطة كشبكة</string>
+    <string name="settings_backup">إنشاء نسخة احتياطية</string>
+    <string name="settings_backup_desc">تصدير كل الملاحظات إلى ملف</string>
+    <string name="settings_restore">استيراد نسخة احتياطية</string>
+    <string name="settings_restore_desc">استرجاع الملاحظات من ملف نسخة احتياطية</string>
+
+    <string name="backup_success">تم إنشاء النسخة الاحتياطية بنجاح</string>
+    <string name="backup_failed">فشل إنشاء النسخة الاحتياطية</string>
+    <string name="restore_success">تم الاستيراد بنجاح</string>
+    <string name="restore_failed">فشل الاستيراد، تأكد أن الملف صحيح</string>
+    <string name="restore_choice_title">طريقة الاستيراد</string>
+    <string name="restore_merge">إضافة إلى الملاحظات الحالية</string>
+    <string name="restore_replace">استبدال كل الملاحظات الحالية</string>
+    <string name="cancel">إلغاء</string>
+
+    <string name="graph_title">شبكة العلاقات</string>
+    <string name="graph_empty">أضف وسومًا مثل #عمل داخل ملاحظاتك لتظهر هنا مترابطة</string>
+    <string name="graph_center_strength">قوة الوسط</string>
+    <string name="graph_repel_strength">قوة الصد</string>
+    <string name="graph_link_strength">قوة الرابط</string>
+    <string name="graph_link_distance">مسافة الرابط</string>
+    <string name="graph_arrows">الأسهم</string>
+    <string name="graph_fade_threshold">حد تلاشي النص</string>
+    <string name="graph_node_size">حجم الرأس</string>
+    <string name="graph_link_thickness">سمك الرابط</string>
+    <string name="graph_hide_orphans">إخفاء الملاحظات بلا وسوم</string>
+    <string name="graph_restart">تحريك</string>
+</resources>
